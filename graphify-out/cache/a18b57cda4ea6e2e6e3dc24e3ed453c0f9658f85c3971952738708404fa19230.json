@@ -1,0 +1,1 @@
+{"nodes": [{"id": "lib_models_order_js", "label": "Order.js", "file_type": "code", "source_file": "lib/models/Order.js", "source_location": "L1"}], "edges": [{"source": "lib_models_order_js", "target": "mongoose", "relation": "imports_from", "confidence": "EXTRACTED", "source_file": "lib/models/Order.js", "source_location": "L1", "weight": 1.0}], "raw_calls": []}

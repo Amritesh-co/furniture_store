@@ -1,0 +1,8 @@
+README.md
+DEPLOYMENT.md
+public/file.svg
+public/vercel.svg
+public/next.svg
+public/globe.svg
+public/window.svg
+public/uploads/product-1773576058511-107498305.png

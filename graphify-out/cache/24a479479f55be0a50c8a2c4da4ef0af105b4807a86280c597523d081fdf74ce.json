@@ -1,0 +1,1 @@
+{"nodes": [{"id": "lib_models_user_js", "label": "User.js", "file_type": "code", "source_file": "lib/models/User.js", "source_location": "L1"}], "edges": [{"source": "lib_models_user_js", "target": "mongoose", "relation": "imports_from", "confidence": "EXTRACTED", "source_file": "lib/models/User.js", "source_location": "L1", "weight": 1.0}], "raw_calls": []}

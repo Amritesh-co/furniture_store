@@ -1,0 +1,470 @@
+{
+  "communities": {
+    "0": [
+      "app_api_admin_settings_route_js",
+      "app_api_admin_stats_route_js",
+      "app_api_admin_users_route_js",
+      "app_api_employees_id_route_js",
+      "app_api_inventory_logs_route_js",
+      "app_api_inventory_route_js",
+      "app_api_orders_id_invoice_route_js",
+      "app_api_orders_id_route_js",
+      "app_api_orders_me_route_js",
+      "app_api_products_id_route_js",
+      "app_api_settings_route_js",
+      "lib_api_response_js",
+      "lib_auth_session_js",
+      "lib_validation_mongodb_js",
+      "mongodb_validateobjectid",
+      "response_errorresponse",
+      "response_handleapierror",
+      "response_successresponse",
+      "route_buildorderquery",
+      "route_delete",
+      "route_get",
+      "route_handleinvoicerequest",
+      "route_normalizepayload",
+      "route_put",
+      "route_validatepayload",
+      "session_getserverauthsession",
+      "session_requireadminsession",
+      "session_requireusersession"
+    ],
+    "1": [
+      "app_api_attendance_route_js",
+      "app_api_contact_route_js",
+      "app_api_custom_inquiry_route_js",
+      "app_api_employees_route_js",
+      "app_api_inventory_update_route_js",
+      "app_api_orders_id_email_invoice_route_js",
+      "app_api_orders_route_js",
+      "app_api_products_route_js",
+      "app_api_register_route_js",
+      "app_api_shopday_route_js",
+      "app_api_upload_route_js",
+      "common_isvalidemail",
+      "common_isvalidpassword",
+      "common_sanitizestring",
+      "inventory_validateinventoryupdatepayload",
+      "lib_validation_common_js",
+      "lib_validation_inventory_js",
+      "lib_validation_order_js",
+      "lib_validation_product_js",
+      "order_validateorderpayload",
+      "product_validateproductpayload",
+      "route_checkauth",
+      "route_post",
+      "route_uploadbuffertocloudinary"
+    ],
+    "2": [
+      "app_admin_analytics_page_js",
+      "app_admin_orders_id_page_js",
+      "app_admin_orders_page_js",
+      "app_admin_page_js",
+      "app_admin_products_page_js",
+      "app_cart_page_js",
+      "app_checkout_page_js",
+      "app_order_success_page_js",
+      "app_profile_orders_page_js",
+      "page_adminanalyticspage",
+      "page_adminorderdetailpage",
+      "page_adminorderspage",
+      "page_adminoverviewpage",
+      "page_adminproductspage",
+      "page_cartpage",
+      "page_checkoutpage",
+      "page_formatprice",
+      "page_myorderspage",
+      "page_ordersuccesspage",
+      "page_statcard"
+    ],
+    "3": [
+      "inventoryservice_applyinventoryupdate",
+      "invoiceservice_autogenerateandsendinvoicefororder",
+      "invoiceservice_buildcustomerdetails",
+      "invoiceservice_buildinvoiceid",
+      "invoiceservice_buildpdfpayload",
+      "invoiceservice_buildproductswithwarranty",
+      "invoiceservice_ensureinvoicefororder",
+      "invoiceservice_sendorderinvoiceemail",
+      "lib_api_logger_js",
+      "logger_logerror",
+      "logger_loginfo",
+      "orderservice_createorderwithinventoryadjustments",
+      "orderservice_generateordertrackingid",
+      "orderservice_getindiadatekey",
+      "pdfgenerator_generateinvoicepdf",
+      "services_inventoryservice_js",
+      "services_invoiceservice_js",
+      "services_orderservice_js"
+    ],
+    "4": [
+      "doc_deployment",
+      "doc_readme",
+      "img_file_svg",
+      "img_globe_svg",
+      "img_next_svg",
+      "img_uploaded_product",
+      "img_vercel_svg",
+      "img_window_svg",
+      "platform_furniture_store",
+      "platform_vercel",
+      "tech_cloudinary",
+      "tech_mongodb",
+      "tech_nextauth",
+      "tech_nextjs",
+      "tech_nodemailer_smtp",
+      "tech_upstash_redis"
+    ],
+    "5": [
+      "app_contact_page_js",
+      "app_custom_furniture_page_js",
+      "app_login_page_js",
+      "components_footer_jsx",
+      "components_whatsappbutton_jsx",
+      "footer_footer",
+      "lib_usebusinesssettings_js",
+      "page_contactpage",
+      "page_customfurniturepage",
+      "page_loginform",
+      "page_loginpage",
+      "usebusinesssettings_usebusinesssettings",
+      "whatsappbutton_whatsappbutton"
+    ],
+    "6": [
+      "app_about_page_js",
+      "businessconfig_mergebusinessinfo",
+      "emailsender_createtransporter",
+      "emailsender_gettransporter",
+      "emailsender_sendcontactemail",
+      "emailsender_sendcustominquiryemail",
+      "emailsender_sendinvoiceemail",
+      "lib_businessconfig_js",
+      "lib_emailsender_js",
+      "lib_settingsservice_js",
+      "page_aboutpage",
+      "settingsservice_getbusinessinfo",
+      "settingsservice_updatebusinessinfo"
+    ],
+    "7": [
+      "addtocartsection_addtocartsection",
+      "cartcontext_cartprovider",
+      "cartcontext_usecart",
+      "cartitem_cartitem",
+      "components_addtocartsection_jsx",
+      "components_cartitem_jsx",
+      "components_navbar_jsx",
+      "components_productcard_jsx",
+      "context_cartcontext_js",
+      "navbar_navbar",
+      "productcard_formatprice",
+      "productcard_productcard"
+    ],
+    "8": [
+      "app_page_js",
+      "app_product_id_page_js",
+      "lib_mongodb_js",
+      "mongodb_connectdb",
+      "page_generatemetadata",
+      "page_getfeaturedproducts",
+      "page_getproduct",
+      "page_getrelated",
+      "page_homepage",
+      "page_productpage",
+      "scripts_seed_test_product_js",
+      "seed_test_product_seed"
+    ],
+    "9": [
+      "lib_api_ratelimit_js",
+      "ratelimit_getclientip",
+      "ratelimit_getratelimiter",
+      "ratelimit_getredisclient",
+      "ratelimit_memoryratelimit",
+      "ratelimit_ratelimit",
+      "ratelimit_warnfallbackonce",
+      "ratelimit_warnredisfailureonce"
+    ],
+    "10": [
+      "lib_pdfgenerator_js",
+      "pdfgenerator_generatecustomerinformation",
+      "pdfgenerator_generatefooter",
+      "pdfgenerator_generateheader",
+      "pdfgenerator_generatehr",
+      "pdfgenerator_generateinvoicetable",
+      "pdfgenerator_generatetablerow"
+    ],
+    "11": [
+      "cloudinary_getcloudinary",
+      "cloudinary_getoptimizedcloudinaryurl",
+      "cloudinary_normalizeenv",
+      "cloudinary_requireenv",
+      "lib_cloudinary_js"
+    ],
+    "12": [
+      "app_shop_page_js",
+      "page_shopcontent",
+      "page_shoppage"
+    ],
+    "13": [
+      "app_admin_settings_page_js",
+      "page_adminsettings",
+      "page_getinitialform"
+    ],
+    "14": [
+      "app_admin_inventory_page_js",
+      "page_admininventorypage",
+      "page_stockbadge"
+    ],
+    "15": [
+      "scripts_seed_js",
+      "seed_getbusinessinfo",
+      "seed_seed"
+    ],
+    "16": [
+      "app_layout_js",
+      "layout_rootlayout"
+    ],
+    "17": [
+      "app_admin_layout_js",
+      "layout_adminlayout"
+    ],
+    "18": [
+      "app_admin_attendance_page_js",
+      "page_attendancepage"
+    ],
+    "19": [
+      "app_admin_attendance_report_page_js",
+      "page_attendancereportpage"
+    ],
+    "20": [
+      "app_admin_customers_page_js",
+      "page_admincustomerspage"
+    ],
+    "21": [
+      "app_admin_custom_inquiries_page_js",
+      "page_custominquiriesadmin"
+    ],
+    "22": [
+      "app_admin_employees_page_js",
+      "page_employeespage"
+    ],
+    "23": [
+      "app_register_page_js",
+      "page_registerpage"
+    ],
+    "24": [
+      "tests_api_upload_route_test_js",
+      "upload_route_test_createrequest"
+    ],
+    "25": [
+      "components_herosection_jsx",
+      "herosection_herosection"
+    ],
+    "26": [
+      "components_productgallery_jsx",
+      "productgallery_productgallery"
+    ],
+    "27": [
+      "components_productgrid_jsx",
+      "productgrid_productgrid"
+    ],
+    "28": [
+      "categorycard_categorycard",
+      "components_categorycard_jsx"
+    ],
+    "29": [
+      "components_providers_js",
+      "providers_providers"
+    ],
+    "30": [
+      "components_newsletterform_jsx",
+      "newsletterform_newsletterform"
+    ],
+    "31": [
+      "adminsidebar_adminsidebar",
+      "components_admin_adminsidebar_jsx"
+    ],
+    "32": [
+      "proxy_js"
+    ],
+    "33": [
+      "postcss_config_mjs"
+    ],
+    "34": [
+      "next_config_mjs"
+    ],
+    "35": [
+      "next_config_js"
+    ],
+    "36": [
+      "vitest_config_mjs"
+    ],
+    "37": [
+      "eslint_config_mjs"
+    ],
+    "38": [
+      "test_delete_js"
+    ],
+    "39": [
+      "app_api_auth_nextauth_route_js"
+    ],
+    "40": [
+      "tests_api_products_route_test_js"
+    ],
+    "41": [
+      "tests_api_orders_route_test_js"
+    ],
+    "42": [
+      "lib_response_js"
+    ],
+    "43": [
+      "lib_auth_js"
+    ],
+    "44": [
+      "lib_sampledata_js"
+    ],
+    "45": [
+      "lib_models_custominquiry_js"
+    ],
+    "46": [
+      "lib_models_order_js"
+    ],
+    "47": [
+      "lib_models_attendance_js"
+    ],
+    "48": [
+      "lib_models_user_js"
+    ],
+    "49": [
+      "lib_models_ordersequence_js"
+    ],
+    "50": [
+      "lib_models_shopday_js"
+    ],
+    "51": [
+      "lib_models_inventorylog_js"
+    ],
+    "52": [
+      "lib_models_invoice_js"
+    ],
+    "53": [
+      "lib_models_globalsettings_js"
+    ],
+    "54": [
+      "lib_models_product_js"
+    ],
+    "55": [
+      "lib_models_employee_js"
+    ]
+  },
+  "cohesion": {},
+  "god_nodes": [
+    {
+      "id": "route_post",
+      "label": "POST()",
+      "degree": 40
+    },
+    {
+      "id": "route_get",
+      "label": "GET()",
+      "degree": 35
+    },
+    {
+      "id": "route_put",
+      "label": "PUT()",
+      "degree": 18
+    },
+    {
+      "id": "page_formatprice",
+      "label": "formatPrice()",
+      "degree": 17
+    },
+    {
+      "id": "mongodb_connectdb",
+      "label": "connectDB()",
+      "degree": 12
+    },
+    {
+      "id": "route_handleinvoicerequest",
+      "label": "handleInvoiceRequest()",
+      "degree": 10
+    },
+    {
+      "id": "route_delete",
+      "label": "DELETE()",
+      "degree": 9
+    },
+    {
+      "id": "response_errorresponse",
+      "label": "errorResponse()",
+      "degree": 9
+    },
+    {
+      "id": "route_buildorderquery",
+      "label": "buildOrderQuery()",
+      "degree": 8
+    },
+    {
+      "id": "settingsservice_getbusinessinfo",
+      "label": "getBusinessInfo()",
+      "degree": 8
+    }
+  ],
+  "surprises": [
+    {
+      "source": "CheckoutPage()",
+      "target": "useCart()",
+      "source_files": [
+        "app/checkout/page.js",
+        "context/CartContext.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "CartPage()",
+      "target": "useCart()",
+      "source_files": [
+        "app/cart/page.js",
+        "context/CartContext.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "AddToCartSection()",
+      "target": "useCart()",
+      "source_files": [
+        "components/AddToCartSection.jsx",
+        "context/CartContext.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `AddToCartSection()` unexpectedly reaches hub `useCart()`"
+    },
+    {
+      "source": "Navbar()",
+      "target": "useCart()",
+      "source_files": [
+        "components/Navbar.jsx",
+        "context/CartContext.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `Navbar()` unexpectedly reaches hub `useCart()`"
+    },
+    {
+      "source": "ContactPage()",
+      "target": "useBusinessSettings()",
+      "source_files": [
+        "app/contact/page.js",
+        "lib/useBusinessSettings.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `ContactPage()` unexpectedly reaches hub `useBusinessSettings()`"
+    }
+  ]
+}

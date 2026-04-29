@@ -1,0 +1,1 @@
+{"nodes": [{"id": "lib_sampledata_js", "label": "sampleData.js", "file_type": "code", "source_file": "lib/sampleData.js", "source_location": "L1"}], "edges": [{"source": "lib_sampledata_js", "target": "businessconfig", "relation": "imports_from", "confidence": "EXTRACTED", "source_file": "lib/sampleData.js", "source_location": "L1", "weight": 1.0}], "raw_calls": []}

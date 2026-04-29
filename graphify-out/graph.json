@@ -1,0 +1,5348 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "proxy.js",
+      "file_type": "code",
+      "source_file": "proxy.js",
+      "source_location": "L1",
+      "id": "proxy_js"
+    },
+    {
+      "label": "postcss.config.mjs",
+      "file_type": "code",
+      "source_file": "postcss.config.mjs",
+      "source_location": "L1",
+      "id": "postcss_config_mjs"
+    },
+    {
+      "label": "next.config.mjs",
+      "file_type": "code",
+      "source_file": "next.config.mjs",
+      "source_location": "L1",
+      "id": "next_config_mjs"
+    },
+    {
+      "label": "next.config.js",
+      "file_type": "code",
+      "source_file": "next.config.js",
+      "source_location": "L1",
+      "id": "next_config_js"
+    },
+    {
+      "label": "vitest.config.mjs",
+      "file_type": "code",
+      "source_file": "vitest.config.mjs",
+      "source_location": "L1",
+      "id": "vitest_config_mjs"
+    },
+    {
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L1",
+      "id": "eslint_config_mjs"
+    },
+    {
+      "label": "test-delete.js",
+      "file_type": "code",
+      "source_file": "test-delete.js",
+      "source_location": "L1",
+      "id": "test_delete_js"
+    },
+    {
+      "label": "CartContext.js",
+      "file_type": "code",
+      "source_file": "context/CartContext.js",
+      "source_location": "L1",
+      "id": "context_cartcontext_js"
+    },
+    {
+      "label": "CartProvider()",
+      "file_type": "code",
+      "source_file": "context/CartContext.js",
+      "source_location": "L6",
+      "id": "cartcontext_cartprovider"
+    },
+    {
+      "label": "useCart()",
+      "file_type": "code",
+      "source_file": "context/CartContext.js",
+      "source_location": "L64",
+      "id": "cartcontext_usecart"
+    },
+    {
+      "label": "layout.js",
+      "file_type": "code",
+      "source_file": "app/layout.js",
+      "source_location": "L1",
+      "id": "app_layout_js"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "app/layout.js",
+      "source_location": "L18",
+      "id": "layout_rootlayout"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/page.js",
+      "source_location": "L1",
+      "id": "app_page_js"
+    },
+    {
+      "label": "getFeaturedProducts()",
+      "file_type": "code",
+      "source_file": "app/page.js",
+      "source_location": "L11",
+      "id": "page_getfeaturedproducts"
+    },
+    {
+      "label": "HomePage()",
+      "file_type": "code",
+      "source_file": "app/page.js",
+      "source_location": "L45",
+      "id": "page_homepage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/contact/page.js",
+      "source_location": "L1",
+      "id": "app_contact_page_js"
+    },
+    {
+      "label": "ContactPage()",
+      "file_type": "code",
+      "source_file": "app/contact/page.js",
+      "source_location": "L8",
+      "id": "page_contactpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/shop/page.js",
+      "source_location": "L1",
+      "id": "app_shop_page_js"
+    },
+    {
+      "label": "ShopContent()",
+      "file_type": "code",
+      "source_file": "app/shop/page.js",
+      "source_location": "L18",
+      "id": "page_shopcontent"
+    },
+    {
+      "label": "ShopPage()",
+      "file_type": "code",
+      "source_file": "app/shop/page.js",
+      "source_location": "L296",
+      "id": "page_shoppage"
+    },
+    {
+      "label": "layout.js",
+      "file_type": "code",
+      "source_file": "app/admin/layout.js",
+      "source_location": "L1",
+      "id": "app_admin_layout_js"
+    },
+    {
+      "label": "AdminLayout()",
+      "file_type": "code",
+      "source_file": "app/admin/layout.js",
+      "source_location": "L7",
+      "id": "layout_adminlayout"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/page.js",
+      "source_location": "L1",
+      "id": "app_admin_page_js"
+    },
+    {
+      "label": "formatPrice()",
+      "file_type": "code",
+      "source_file": "app/cart/page.js",
+      "source_location": "L8",
+      "id": "page_formatprice"
+    },
+    {
+      "label": "StatCard()",
+      "file_type": "code",
+      "source_file": "app/admin/page.js",
+      "source_location": "L16",
+      "id": "page_statcard"
+    },
+    {
+      "label": "AdminOverviewPage()",
+      "file_type": "code",
+      "source_file": "app/admin/page.js",
+      "source_location": "L31",
+      "id": "page_adminoverviewpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/attendance/page.js",
+      "source_location": "L1",
+      "id": "app_admin_attendance_page_js"
+    },
+    {
+      "label": "AttendancePage()",
+      "file_type": "code",
+      "source_file": "app/admin/attendance/page.js",
+      "source_location": "L6",
+      "id": "page_attendancepage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/attendance/report/page.js",
+      "source_location": "L1",
+      "id": "app_admin_attendance_report_page_js"
+    },
+    {
+      "label": "AttendanceReportPage()",
+      "file_type": "code",
+      "source_file": "app/admin/attendance/report/page.js",
+      "source_location": "L5",
+      "id": "page_attendancereportpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/customers/page.js",
+      "source_location": "L1",
+      "id": "app_admin_customers_page_js"
+    },
+    {
+      "label": "AdminCustomersPage()",
+      "file_type": "code",
+      "source_file": "app/admin/customers/page.js",
+      "source_location": "L5",
+      "id": "page_admincustomerspage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/settings/page.js",
+      "source_location": "L1",
+      "id": "app_admin_settings_page_js"
+    },
+    {
+      "label": "getInitialForm()",
+      "file_type": "code",
+      "source_file": "app/admin/settings/page.js",
+      "source_location": "L6",
+      "id": "page_getinitialform"
+    },
+    {
+      "label": "AdminSettings()",
+      "file_type": "code",
+      "source_file": "app/admin/settings/page.js",
+      "source_location": "L21",
+      "id": "page_adminsettings"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/products/page.js",
+      "source_location": "L1",
+      "id": "app_admin_products_page_js"
+    },
+    {
+      "label": "AdminProductsPage()",
+      "file_type": "code",
+      "source_file": "app/admin/products/page.js",
+      "source_location": "L18",
+      "id": "page_adminproductspage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/inventory/page.js",
+      "source_location": "L1",
+      "id": "app_admin_inventory_page_js"
+    },
+    {
+      "label": "stockBadge()",
+      "file_type": "code",
+      "source_file": "app/admin/inventory/page.js",
+      "source_location": "L5",
+      "id": "page_stockbadge"
+    },
+    {
+      "label": "AdminInventoryPage()",
+      "file_type": "code",
+      "source_file": "app/admin/inventory/page.js",
+      "source_location": "L11",
+      "id": "page_admininventorypage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/orders/page.js",
+      "source_location": "L1",
+      "id": "app_admin_orders_page_js"
+    },
+    {
+      "label": "AdminOrdersPage()",
+      "file_type": "code",
+      "source_file": "app/admin/orders/page.js",
+      "source_location": "L17",
+      "id": "page_adminorderspage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/orders/[id]/page.js",
+      "source_location": "L1",
+      "id": "app_admin_orders_id_page_js"
+    },
+    {
+      "label": "AdminOrderDetailPage()",
+      "file_type": "code",
+      "source_file": "app/admin/orders/[id]/page.js",
+      "source_location": "L9",
+      "id": "page_adminorderdetailpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/custom-inquiries/page.js",
+      "source_location": "L1",
+      "id": "app_admin_custom_inquiries_page_js"
+    },
+    {
+      "label": "CustomInquiriesAdmin()",
+      "file_type": "code",
+      "source_file": "app/admin/custom-inquiries/page.js",
+      "source_location": "L5",
+      "id": "page_custominquiriesadmin"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/analytics/page.js",
+      "source_location": "L1",
+      "id": "app_admin_analytics_page_js"
+    },
+    {
+      "label": "AdminAnalyticsPage()",
+      "file_type": "code",
+      "source_file": "app/admin/analytics/page.js",
+      "source_location": "L9",
+      "id": "page_adminanalyticspage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/admin/employees/page.js",
+      "source_location": "L1",
+      "id": "app_admin_employees_page_js"
+    },
+    {
+      "label": "EmployeesPage()",
+      "file_type": "code",
+      "source_file": "app/admin/employees/page.js",
+      "source_location": "L8",
+      "id": "page_employeespage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/order-success/page.js",
+      "source_location": "L1",
+      "id": "app_order_success_page_js"
+    },
+    {
+      "label": "OrderSuccessPage()",
+      "file_type": "code",
+      "source_file": "app/order-success/page.js",
+      "source_location": "L13",
+      "id": "page_ordersuccesspage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/about/page.js",
+      "source_location": "L1",
+      "id": "app_about_page_js"
+    },
+    {
+      "label": "AboutPage()",
+      "file_type": "code",
+      "source_file": "app/about/page.js",
+      "source_location": "L12",
+      "id": "page_aboutpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L1",
+      "id": "app_product_id_page_js"
+    },
+    {
+      "label": "getProduct()",
+      "file_type": "code",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L11",
+      "id": "page_getproduct"
+    },
+    {
+      "label": "getRelated()",
+      "file_type": "code",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L19",
+      "id": "page_getrelated"
+    },
+    {
+      "label": "generateMetadata()",
+      "file_type": "code",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L27",
+      "id": "page_generatemetadata"
+    },
+    {
+      "label": "ProductPage()",
+      "file_type": "code",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L39",
+      "id": "page_productpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/checkout/page.js",
+      "source_location": "L1",
+      "id": "app_checkout_page_js"
+    },
+    {
+      "label": "CheckoutPage()",
+      "file_type": "code",
+      "source_file": "app/checkout/page.js",
+      "source_location": "L22",
+      "id": "page_checkoutpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/register/page.js",
+      "source_location": "L1",
+      "id": "app_register_page_js"
+    },
+    {
+      "label": "RegisterPage()",
+      "file_type": "code",
+      "source_file": "app/register/page.js",
+      "source_location": "L8",
+      "id": "page_registerpage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/profile/orders/page.js",
+      "source_location": "L1",
+      "id": "app_profile_orders_page_js"
+    },
+    {
+      "label": "MyOrdersPage()",
+      "file_type": "code",
+      "source_file": "app/profile/orders/page.js",
+      "source_location": "L11",
+      "id": "page_myorderspage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/custom-furniture/page.js",
+      "source_location": "L1",
+      "id": "app_custom_furniture_page_js"
+    },
+    {
+      "label": "CustomFurniturePage()",
+      "file_type": "code",
+      "source_file": "app/custom-furniture/page.js",
+      "source_location": "L10",
+      "id": "page_customfurniturepage"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/cart/page.js",
+      "source_location": "L1",
+      "id": "app_cart_page_js"
+    },
+    {
+      "label": "CartPage()",
+      "file_type": "code",
+      "source_file": "app/cart/page.js",
+      "source_location": "L11",
+      "id": "page_cartpage"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L1",
+      "id": "app_api_attendance_route_js"
+    },
+    {
+      "label": "checkAuth()",
+      "file_type": "code",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L9",
+      "id": "route_checkauth"
+    },
+    {
+      "label": "GET()",
+      "file_type": "code",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L8",
+      "id": "route_get"
+    },
+    {
+      "label": "POST()",
+      "file_type": "code",
+      "source_file": "app/api/employees/route.js",
+      "source_location": "L22",
+      "id": "route_post"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/settings/route.js",
+      "source_location": "L1",
+      "id": "app_api_settings_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L1",
+      "id": "app_api_contact_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/products/route.js",
+      "source_location": "L1",
+      "id": "app_api_products_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L1",
+      "id": "app_api_products_id_route_js"
+    },
+    {
+      "label": "PUT()",
+      "file_type": "code",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L26",
+      "id": "route_put"
+    },
+    {
+      "label": "DELETE()",
+      "file_type": "code",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L47",
+      "id": "route_delete"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/auth/[...nextauth]/route.js",
+      "source_location": "L1",
+      "id": "app_api_auth_nextauth_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/custom-inquiry/route.js",
+      "source_location": "L1",
+      "id": "app_api_custom_inquiry_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L1",
+      "id": "app_api_shopday_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L1",
+      "id": "app_api_admin_settings_route_js"
+    },
+    {
+      "label": "normalizePayload()",
+      "file_type": "code",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L6",
+      "id": "route_normalizepayload"
+    },
+    {
+      "label": "validatePayload()",
+      "file_type": "code",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L27",
+      "id": "route_validatepayload"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/admin/users/route.js",
+      "source_location": "L1",
+      "id": "app_api_admin_users_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/admin/stats/route.js",
+      "source_location": "L1",
+      "id": "app_api_admin_stats_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/register/route.js",
+      "source_location": "L1",
+      "id": "app_api_register_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/inventory/route.js",
+      "source_location": "L1",
+      "id": "app_api_inventory_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/inventory/update/route.js",
+      "source_location": "L1",
+      "id": "app_api_inventory_update_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/inventory/logs/route.js",
+      "source_location": "L1",
+      "id": "app_api_inventory_logs_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L1",
+      "id": "app_api_orders_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/orders/me/route.js",
+      "source_location": "L1",
+      "id": "app_api_orders_me_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L1",
+      "id": "app_api_orders_id_route_js"
+    },
+    {
+      "label": "buildOrderQuery()",
+      "file_type": "code",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L11",
+      "id": "route_buildorderquery"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/orders/[id]/email-invoice/route.js",
+      "source_location": "L1",
+      "id": "app_api_orders_id_email_invoice_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L1",
+      "id": "app_api_orders_id_invoice_route_js"
+    },
+    {
+      "label": "handleInvoiceRequest()",
+      "file_type": "code",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L26",
+      "id": "route_handleinvoicerequest"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L1",
+      "id": "app_api_upload_route_js"
+    },
+    {
+      "label": "uploadBufferToCloudinary()",
+      "file_type": "code",
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L6",
+      "id": "route_uploadbuffertocloudinary"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/employees/route.js",
+      "source_location": "L1",
+      "id": "app_api_employees_route_js"
+    },
+    {
+      "label": "route.js",
+      "file_type": "code",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L1",
+      "id": "app_api_employees_id_route_js"
+    },
+    {
+      "label": "page.js",
+      "file_type": "code",
+      "source_file": "app/login/page.js",
+      "source_location": "L1",
+      "id": "app_login_page_js"
+    },
+    {
+      "label": "LoginForm()",
+      "file_type": "code",
+      "source_file": "app/login/page.js",
+      "source_location": "L9",
+      "id": "page_loginform"
+    },
+    {
+      "label": "LoginPage()",
+      "file_type": "code",
+      "source_file": "app/login/page.js",
+      "source_location": "L125",
+      "id": "page_loginpage"
+    },
+    {
+      "label": "products.route.test.js",
+      "file_type": "code",
+      "source_file": "tests/api/products.route.test.js",
+      "source_location": "L1",
+      "id": "tests_api_products_route_test_js"
+    },
+    {
+      "label": "orders.route.test.js",
+      "file_type": "code",
+      "source_file": "tests/api/orders.route.test.js",
+      "source_location": "L1",
+      "id": "tests_api_orders_route_test_js"
+    },
+    {
+      "label": "upload.route.test.js",
+      "file_type": "code",
+      "source_file": "tests/api/upload.route.test.js",
+      "source_location": "L1",
+      "id": "tests_api_upload_route_test_js"
+    },
+    {
+      "label": "createRequest()",
+      "file_type": "code",
+      "source_file": "tests/api/upload.route.test.js",
+      "source_location": "L21",
+      "id": "upload_route_test_createrequest"
+    },
+    {
+      "label": "HeroSection.jsx",
+      "file_type": "code",
+      "source_file": "components/HeroSection.jsx",
+      "source_location": "L1",
+      "id": "components_herosection_jsx"
+    },
+    {
+      "label": "HeroSection()",
+      "file_type": "code",
+      "source_file": "components/HeroSection.jsx",
+      "source_location": "L4",
+      "id": "herosection_herosection"
+    },
+    {
+      "label": "Footer.jsx",
+      "file_type": "code",
+      "source_file": "components/Footer.jsx",
+      "source_location": "L1",
+      "id": "components_footer_jsx"
+    },
+    {
+      "label": "Footer()",
+      "file_type": "code",
+      "source_file": "components/Footer.jsx",
+      "source_location": "L7",
+      "id": "footer_footer"
+    },
+    {
+      "label": "ProductGallery.jsx",
+      "file_type": "code",
+      "source_file": "components/ProductGallery.jsx",
+      "source_location": "L1",
+      "id": "components_productgallery_jsx"
+    },
+    {
+      "label": "ProductGallery()",
+      "file_type": "code",
+      "source_file": "components/ProductGallery.jsx",
+      "source_location": "L5",
+      "id": "productgallery_productgallery"
+    },
+    {
+      "label": "AddToCartSection.jsx",
+      "file_type": "code",
+      "source_file": "components/AddToCartSection.jsx",
+      "source_location": "L1",
+      "id": "components_addtocartsection_jsx"
+    },
+    {
+      "label": "AddToCartSection()",
+      "file_type": "code",
+      "source_file": "components/AddToCartSection.jsx",
+      "source_location": "L6",
+      "id": "addtocartsection_addtocartsection"
+    },
+    {
+      "label": "WhatsAppButton.jsx",
+      "file_type": "code",
+      "source_file": "components/WhatsAppButton.jsx",
+      "source_location": "L1",
+      "id": "components_whatsappbutton_jsx"
+    },
+    {
+      "label": "WhatsAppButton()",
+      "file_type": "code",
+      "source_file": "components/WhatsAppButton.jsx",
+      "source_location": "L6",
+      "id": "whatsappbutton_whatsappbutton"
+    },
+    {
+      "label": "Navbar.jsx",
+      "file_type": "code",
+      "source_file": "components/Navbar.jsx",
+      "source_location": "L1",
+      "id": "components_navbar_jsx"
+    },
+    {
+      "label": "Navbar()",
+      "file_type": "code",
+      "source_file": "components/Navbar.jsx",
+      "source_location": "L9",
+      "id": "navbar_navbar"
+    },
+    {
+      "label": "ProductGrid.jsx",
+      "file_type": "code",
+      "source_file": "components/ProductGrid.jsx",
+      "source_location": "L1",
+      "id": "components_productgrid_jsx"
+    },
+    {
+      "label": "ProductGrid()",
+      "file_type": "code",
+      "source_file": "components/ProductGrid.jsx",
+      "source_location": "L3",
+      "id": "productgrid_productgrid"
+    },
+    {
+      "label": "ProductCard.jsx",
+      "file_type": "code",
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L1",
+      "id": "components_productcard_jsx"
+    },
+    {
+      "label": "formatPrice()",
+      "file_type": "code",
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L7",
+      "id": "productcard_formatprice"
+    },
+    {
+      "label": "ProductCard()",
+      "file_type": "code",
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L10",
+      "id": "productcard_productcard"
+    },
+    {
+      "label": "CategoryCard.jsx",
+      "file_type": "code",
+      "source_file": "components/CategoryCard.jsx",
+      "source_location": "L1",
+      "id": "components_categorycard_jsx"
+    },
+    {
+      "label": "CategoryCard()",
+      "file_type": "code",
+      "source_file": "components/CategoryCard.jsx",
+      "source_location": "L3",
+      "id": "categorycard_categorycard"
+    },
+    {
+      "label": "CartItem.jsx",
+      "file_type": "code",
+      "source_file": "components/CartItem.jsx",
+      "source_location": "L1",
+      "id": "components_cartitem_jsx"
+    },
+    {
+      "label": "CartItem()",
+      "file_type": "code",
+      "source_file": "components/CartItem.jsx",
+      "source_location": "L5",
+      "id": "cartitem_cartitem"
+    },
+    {
+      "label": "Providers.js",
+      "file_type": "code",
+      "source_file": "components/Providers.js",
+      "source_location": "L1",
+      "id": "components_providers_js"
+    },
+    {
+      "label": "Providers()",
+      "file_type": "code",
+      "source_file": "components/Providers.js",
+      "source_location": "L5",
+      "id": "providers_providers"
+    },
+    {
+      "label": "NewsletterForm.jsx",
+      "file_type": "code",
+      "source_file": "components/NewsletterForm.jsx",
+      "source_location": "L1",
+      "id": "components_newsletterform_jsx"
+    },
+    {
+      "label": "NewsletterForm()",
+      "file_type": "code",
+      "source_file": "components/NewsletterForm.jsx",
+      "source_location": "L2",
+      "id": "newsletterform_newsletterform"
+    },
+    {
+      "label": "AdminSidebar.jsx",
+      "file_type": "code",
+      "source_file": "components/admin/AdminSidebar.jsx",
+      "source_location": "L1",
+      "id": "components_admin_adminsidebar_jsx"
+    },
+    {
+      "label": "AdminSidebar()",
+      "file_type": "code",
+      "source_file": "components/admin/AdminSidebar.jsx",
+      "source_location": "L23",
+      "id": "adminsidebar_adminsidebar"
+    },
+    {
+      "label": "seed.js",
+      "file_type": "code",
+      "source_file": "scripts/seed.js",
+      "source_location": "L1",
+      "id": "scripts_seed_js"
+    },
+    {
+      "label": "getBusinessInfo()",
+      "file_type": "code",
+      "source_file": "scripts/seed.js",
+      "source_location": "L50",
+      "id": "seed_getbusinessinfo"
+    },
+    {
+      "label": "seed()",
+      "file_type": "code",
+      "source_file": "scripts/seed.js",
+      "source_location": "L79",
+      "id": "seed_seed"
+    },
+    {
+      "label": "seed_test_product.js",
+      "file_type": "code",
+      "source_file": "scripts/seed_test_product.js",
+      "source_location": "L1",
+      "id": "scripts_seed_test_product_js"
+    },
+    {
+      "label": "seed()",
+      "file_type": "code",
+      "source_file": "scripts/seed_test_product.js",
+      "source_location": "L8",
+      "id": "seed_test_product_seed"
+    },
+    {
+      "label": "mongodb.js",
+      "file_type": "code",
+      "source_file": "lib/mongodb.js",
+      "source_location": "L1",
+      "id": "lib_mongodb_js"
+    },
+    {
+      "label": "connectDB()",
+      "file_type": "code",
+      "source_file": "lib/mongodb.js",
+      "source_location": "L9",
+      "id": "mongodb_connectdb"
+    },
+    {
+      "label": "pdfGenerator.js",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L1",
+      "id": "lib_pdfgenerator_js"
+    },
+    {
+      "label": "generateInvoicePDF()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L5",
+      "id": "pdfgenerator_generateinvoicepdf"
+    },
+    {
+      "label": "generateHeader()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L28",
+      "id": "pdfgenerator_generateheader"
+    },
+    {
+      "label": "generateCustomerInformation()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L43",
+      "id": "pdfgenerator_generatecustomerinformation"
+    },
+    {
+      "label": "generateInvoiceTable()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L77",
+      "id": "pdfgenerator_generateinvoicetable"
+    },
+    {
+      "label": "generateFooter()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L126",
+      "id": "pdfgenerator_generatefooter"
+    },
+    {
+      "label": "generateTableRow()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L134",
+      "id": "pdfgenerator_generatetablerow"
+    },
+    {
+      "label": "generateHr()",
+      "file_type": "code",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L144",
+      "id": "pdfgenerator_generatehr"
+    },
+    {
+      "label": "response.js",
+      "file_type": "code",
+      "source_file": "lib/response.js",
+      "source_location": "L1",
+      "id": "lib_response_js"
+    },
+    {
+      "label": "auth.js",
+      "file_type": "code",
+      "source_file": "lib/auth.js",
+      "source_location": "L1",
+      "id": "lib_auth_js"
+    },
+    {
+      "label": "sampleData.js",
+      "file_type": "code",
+      "source_file": "lib/sampleData.js",
+      "source_location": "L1",
+      "id": "lib_sampledata_js"
+    },
+    {
+      "label": "settingsService.js",
+      "file_type": "code",
+      "source_file": "lib/settingsService.js",
+      "source_location": "L1",
+      "id": "lib_settingsservice_js"
+    },
+    {
+      "label": "getBusinessInfo()",
+      "file_type": "code",
+      "source_file": "lib/settingsService.js",
+      "source_location": "L7",
+      "id": "settingsservice_getbusinessinfo"
+    },
+    {
+      "label": "updateBusinessInfo()",
+      "file_type": "code",
+      "source_file": "lib/settingsService.js",
+      "source_location": "L17",
+      "id": "settingsservice_updatebusinessinfo"
+    },
+    {
+      "label": "useBusinessSettings.js",
+      "file_type": "code",
+      "source_file": "lib/useBusinessSettings.js",
+      "source_location": "L1",
+      "id": "lib_usebusinesssettings_js"
+    },
+    {
+      "label": "useBusinessSettings()",
+      "file_type": "code",
+      "source_file": "lib/useBusinessSettings.js",
+      "source_location": "L13",
+      "id": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "label": "cloudinary.js",
+      "file_type": "code",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L1",
+      "id": "lib_cloudinary_js"
+    },
+    {
+      "label": "normalizeEnv()",
+      "file_type": "code",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L5",
+      "id": "cloudinary_normalizeenv"
+    },
+    {
+      "label": "requireEnv()",
+      "file_type": "code",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L12",
+      "id": "cloudinary_requireenv"
+    },
+    {
+      "label": "getCloudinary()",
+      "file_type": "code",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L20",
+      "id": "cloudinary_getcloudinary"
+    },
+    {
+      "label": "getOptimizedCloudinaryUrl()",
+      "file_type": "code",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L42",
+      "id": "cloudinary_getoptimizedcloudinaryurl"
+    },
+    {
+      "label": "emailSender.js",
+      "file_type": "code",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L1",
+      "id": "lib_emailsender_js"
+    },
+    {
+      "label": "createTransporter()",
+      "file_type": "code",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L7",
+      "id": "emailsender_createtransporter"
+    },
+    {
+      "label": "getTransporter()",
+      "file_type": "code",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L25",
+      "id": "emailsender_gettransporter"
+    },
+    {
+      "label": "sendInvoiceEmail()",
+      "file_type": "code",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L46",
+      "id": "emailsender_sendinvoiceemail"
+    },
+    {
+      "label": "sendContactEmail()",
+      "file_type": "code",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L97",
+      "id": "emailsender_sendcontactemail"
+    },
+    {
+      "label": "sendCustomInquiryEmail()",
+      "file_type": "code",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L130",
+      "id": "emailsender_sendcustominquiryemail"
+    },
+    {
+      "label": "businessConfig.js",
+      "file_type": "code",
+      "source_file": "lib/businessConfig.js",
+      "source_location": "L1",
+      "id": "lib_businessconfig_js"
+    },
+    {
+      "label": "mergeBusinessInfo()",
+      "file_type": "code",
+      "source_file": "lib/businessConfig.js",
+      "source_location": "L16",
+      "id": "businessconfig_mergebusinessinfo"
+    },
+    {
+      "label": "session.js",
+      "file_type": "code",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L1",
+      "id": "lib_auth_session_js"
+    },
+    {
+      "label": "getServerAuthSession()",
+      "file_type": "code",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L5",
+      "id": "session_getserverauthsession"
+    },
+    {
+      "label": "requireUserSession()",
+      "file_type": "code",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L9",
+      "id": "session_requireusersession"
+    },
+    {
+      "label": "requireAdminSession()",
+      "file_type": "code",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L17",
+      "id": "session_requireadminsession"
+    },
+    {
+      "label": "CustomInquiry.js",
+      "file_type": "code",
+      "source_file": "lib/models/CustomInquiry.js",
+      "source_location": "L1",
+      "id": "lib_models_custominquiry_js"
+    },
+    {
+      "label": "Order.js",
+      "file_type": "code",
+      "source_file": "lib/models/Order.js",
+      "source_location": "L1",
+      "id": "lib_models_order_js"
+    },
+    {
+      "label": "Attendance.js",
+      "file_type": "code",
+      "source_file": "lib/models/Attendance.js",
+      "source_location": "L1",
+      "id": "lib_models_attendance_js"
+    },
+    {
+      "label": "User.js",
+      "file_type": "code",
+      "source_file": "lib/models/User.js",
+      "source_location": "L1",
+      "id": "lib_models_user_js"
+    },
+    {
+      "label": "OrderSequence.js",
+      "file_type": "code",
+      "source_file": "lib/models/OrderSequence.js",
+      "source_location": "L1",
+      "id": "lib_models_ordersequence_js"
+    },
+    {
+      "label": "ShopDay.js",
+      "file_type": "code",
+      "source_file": "lib/models/ShopDay.js",
+      "source_location": "L1",
+      "id": "lib_models_shopday_js"
+    },
+    {
+      "label": "InventoryLog.js",
+      "file_type": "code",
+      "source_file": "lib/models/InventoryLog.js",
+      "source_location": "L1",
+      "id": "lib_models_inventorylog_js"
+    },
+    {
+      "label": "Invoice.js",
+      "file_type": "code",
+      "source_file": "lib/models/Invoice.js",
+      "source_location": "L1",
+      "id": "lib_models_invoice_js"
+    },
+    {
+      "label": "GlobalSettings.js",
+      "file_type": "code",
+      "source_file": "lib/models/GlobalSettings.js",
+      "source_location": "L1",
+      "id": "lib_models_globalsettings_js"
+    },
+    {
+      "label": "Product.js",
+      "file_type": "code",
+      "source_file": "lib/models/Product.js",
+      "source_location": "L1",
+      "id": "lib_models_product_js"
+    },
+    {
+      "label": "Employee.js",
+      "file_type": "code",
+      "source_file": "lib/models/Employee.js",
+      "source_location": "L1",
+      "id": "lib_models_employee_js"
+    },
+    {
+      "label": "logger.js",
+      "file_type": "code",
+      "source_file": "lib/api/logger.js",
+      "source_location": "L1",
+      "id": "lib_api_logger_js"
+    },
+    {
+      "label": "logInfo()",
+      "file_type": "code",
+      "source_file": "lib/api/logger.js",
+      "source_location": "L1",
+      "id": "logger_loginfo"
+    },
+    {
+      "label": "logError()",
+      "file_type": "code",
+      "source_file": "lib/api/logger.js",
+      "source_location": "L5",
+      "id": "logger_logerror"
+    },
+    {
+      "label": "rateLimit.js",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L1",
+      "id": "lib_api_ratelimit_js"
+    },
+    {
+      "label": "getRedisClient()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L11",
+      "id": "ratelimit_getredisclient"
+    },
+    {
+      "label": "getRatelimiter()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L25",
+      "id": "ratelimit_getratelimiter"
+    },
+    {
+      "label": "warnFallbackOnce()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L45",
+      "id": "ratelimit_warnfallbackonce"
+    },
+    {
+      "label": "warnRedisFailureOnce()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L56",
+      "id": "ratelimit_warnredisfailureonce"
+    },
+    {
+      "label": "memoryRateLimit()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L68",
+      "id": "ratelimit_memoryratelimit"
+    },
+    {
+      "label": "rateLimit()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L95",
+      "id": "ratelimit_ratelimit"
+    },
+    {
+      "label": "getClientIp()",
+      "file_type": "code",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L121",
+      "id": "ratelimit_getclientip"
+    },
+    {
+      "label": "response.js",
+      "file_type": "code",
+      "source_file": "lib/api/response.js",
+      "source_location": "L1",
+      "id": "lib_api_response_js"
+    },
+    {
+      "label": "successResponse()",
+      "file_type": "code",
+      "source_file": "lib/api/response.js",
+      "source_location": "L3",
+      "id": "response_successresponse"
+    },
+    {
+      "label": "errorResponse()",
+      "file_type": "code",
+      "source_file": "lib/api/response.js",
+      "source_location": "L7",
+      "id": "response_errorresponse"
+    },
+    {
+      "label": "handleApiError()",
+      "file_type": "code",
+      "source_file": "lib/api/response.js",
+      "source_location": "L11",
+      "id": "response_handleapierror"
+    },
+    {
+      "label": "order.js",
+      "file_type": "code",
+      "source_file": "lib/validation/order.js",
+      "source_location": "L1",
+      "id": "lib_validation_order_js"
+    },
+    {
+      "label": "validateOrderPayload()",
+      "file_type": "code",
+      "source_file": "lib/validation/order.js",
+      "source_location": "L1",
+      "id": "order_validateorderpayload"
+    },
+    {
+      "label": "mongodb.js",
+      "file_type": "code",
+      "source_file": "lib/validation/mongodb.js",
+      "source_location": "L1",
+      "id": "lib_validation_mongodb_js"
+    },
+    {
+      "label": "validateObjectId()",
+      "file_type": "code",
+      "source_file": "lib/validation/mongodb.js",
+      "source_location": "L3",
+      "id": "mongodb_validateobjectid"
+    },
+    {
+      "label": "inventory.js",
+      "file_type": "code",
+      "source_file": "lib/validation/inventory.js",
+      "source_location": "L1",
+      "id": "lib_validation_inventory_js"
+    },
+    {
+      "label": "validateInventoryUpdatePayload()",
+      "file_type": "code",
+      "source_file": "lib/validation/inventory.js",
+      "source_location": "L4",
+      "id": "inventory_validateinventoryupdatepayload"
+    },
+    {
+      "label": "common.js",
+      "file_type": "code",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L1",
+      "id": "lib_validation_common_js"
+    },
+    {
+      "label": "sanitizeString()",
+      "file_type": "code",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L1",
+      "id": "common_sanitizestring"
+    },
+    {
+      "label": "isValidEmail()",
+      "file_type": "code",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L6",
+      "id": "common_isvalidemail"
+    },
+    {
+      "label": "isValidPassword()",
+      "file_type": "code",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L11",
+      "id": "common_isvalidpassword"
+    },
+    {
+      "label": "product.js",
+      "file_type": "code",
+      "source_file": "lib/validation/product.js",
+      "source_location": "L1",
+      "id": "lib_validation_product_js"
+    },
+    {
+      "label": "validateProductPayload()",
+      "file_type": "code",
+      "source_file": "lib/validation/product.js",
+      "source_location": "L3",
+      "id": "product_validateproductpayload"
+    },
+    {
+      "label": "inventoryService.js",
+      "file_type": "code",
+      "source_file": "services/inventoryService.js",
+      "source_location": "L1",
+      "id": "services_inventoryservice_js"
+    },
+    {
+      "label": "applyInventoryUpdate()",
+      "file_type": "code",
+      "source_file": "services/inventoryService.js",
+      "source_location": "L5",
+      "id": "inventoryservice_applyinventoryupdate"
+    },
+    {
+      "label": "invoiceService.js",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L1",
+      "id": "services_invoiceservice_js"
+    },
+    {
+      "label": "buildCustomerDetails()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L8",
+      "id": "invoiceservice_buildcustomerdetails"
+    },
+    {
+      "label": "buildInvoiceId()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L22",
+      "id": "invoiceservice_buildinvoiceid"
+    },
+    {
+      "label": "buildProductsWithWarranty()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L28",
+      "id": "invoiceservice_buildproductswithwarranty"
+    },
+    {
+      "label": "buildPdfPayload()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L61",
+      "id": "invoiceservice_buildpdfpayload"
+    },
+    {
+      "label": "ensureInvoiceForOrder()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L69",
+      "id": "invoiceservice_ensureinvoicefororder"
+    },
+    {
+      "label": "sendOrderInvoiceEmail()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L98",
+      "id": "invoiceservice_sendorderinvoiceemail"
+    },
+    {
+      "label": "autoGenerateAndSendInvoiceForOrder()",
+      "file_type": "code",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L117",
+      "id": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "label": "orderService.js",
+      "file_type": "code",
+      "source_file": "services/orderService.js",
+      "source_location": "L1",
+      "id": "services_orderservice_js"
+    },
+    {
+      "label": "getIndiaDateKey()",
+      "file_type": "code",
+      "source_file": "services/orderService.js",
+      "source_location": "L7",
+      "id": "orderservice_getindiadatekey"
+    },
+    {
+      "label": "generateOrderTrackingId()",
+      "file_type": "code",
+      "source_file": "services/orderService.js",
+      "source_location": "L19",
+      "id": "orderservice_generateordertrackingid"
+    },
+    {
+      "label": "createOrderWithInventoryAdjustments()",
+      "file_type": "code",
+      "source_file": "services/orderService.js",
+      "source_location": "L32",
+      "id": "orderservice_createorderwithinventoryadjustments"
+    },
+    {
+      "label": "README",
+      "file_type": "document",
+      "id": "doc_readme"
+    },
+    {
+      "label": "DEPLOYMENT Guide",
+      "file_type": "document",
+      "id": "doc_deployment"
+    },
+    {
+      "label": "Furniture Store Platform",
+      "file_type": "document",
+      "id": "platform_furniture_store"
+    },
+    {
+      "label": "Next.js App Router",
+      "file_type": "document",
+      "id": "tech_nextjs"
+    },
+    {
+      "label": "MongoDB",
+      "file_type": "document",
+      "id": "tech_mongodb"
+    },
+    {
+      "label": "NextAuth",
+      "file_type": "document",
+      "id": "tech_nextauth"
+    },
+    {
+      "label": "Cloudinary",
+      "file_type": "document",
+      "id": "tech_cloudinary"
+    },
+    {
+      "label": "SMTP via Nodemailer",
+      "file_type": "document",
+      "id": "tech_nodemailer_smtp"
+    },
+    {
+      "label": "Upstash Redis Rate Limiting",
+      "file_type": "document",
+      "id": "tech_upstash_redis"
+    },
+    {
+      "label": "Vercel",
+      "file_type": "document",
+      "id": "platform_vercel"
+    },
+    {
+      "label": "File Icon",
+      "file_type": "image",
+      "id": "img_file_svg"
+    },
+    {
+      "label": "Vercel Triangle Logo",
+      "file_type": "image",
+      "id": "img_vercel_svg"
+    },
+    {
+      "label": "Next.js Wordmark Logo",
+      "file_type": "image",
+      "id": "img_next_svg"
+    },
+    {
+      "label": "Globe Icon",
+      "file_type": "image",
+      "id": "img_globe_svg"
+    },
+    {
+      "label": "Window Icon",
+      "file_type": "image",
+      "id": "img_window_svg"
+    },
+    {
+      "label": "Rotaract Club of R.V.C.E. Logo Image",
+      "file_type": "image",
+      "id": "img_uploaded_product"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "context/CartContext.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "context_cartcontext_js",
+      "_tgt": "cartcontext_cartprovider",
+      "source": "context_cartcontext_js",
+      "target": "cartcontext_cartprovider"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "context/CartContext.js",
+      "source_location": "L64",
+      "weight": 1.0,
+      "_src": "context_cartcontext_js",
+      "_tgt": "cartcontext_usecart",
+      "source": "context_cartcontext_js",
+      "target": "cartcontext_usecart"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/checkout/page.js",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "page_checkoutpage",
+      "_tgt": "cartcontext_usecart",
+      "source": "cartcontext_usecart",
+      "target": "page_checkoutpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/cart/page.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "page_cartpage",
+      "_tgt": "cartcontext_usecart",
+      "source": "cartcontext_usecart",
+      "target": "page_cartpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/AddToCartSection.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "addtocartsection_addtocartsection",
+      "_tgt": "cartcontext_usecart",
+      "source": "cartcontext_usecart",
+      "target": "addtocartsection_addtocartsection"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/Navbar.jsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "navbar_navbar",
+      "_tgt": "cartcontext_usecart",
+      "source": "cartcontext_usecart",
+      "target": "navbar_navbar"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "productcard_productcard",
+      "_tgt": "cartcontext_usecart",
+      "source": "cartcontext_usecart",
+      "target": "productcard_productcard"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/CartItem.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "cartitem_cartitem",
+      "_tgt": "cartcontext_usecart",
+      "source": "cartcontext_usecart",
+      "target": "cartitem_cartitem"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "app_layout_js",
+      "_tgt": "layout_rootlayout",
+      "source": "app_layout_js",
+      "target": "layout_rootlayout"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "app_page_js",
+      "_tgt": "page_getfeaturedproducts",
+      "source": "app_page_js",
+      "target": "page_getfeaturedproducts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "app_page_js",
+      "_tgt": "page_homepage",
+      "source": "app_page_js",
+      "target": "page_homepage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.js",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "page_homepage",
+      "_tgt": "page_getfeaturedproducts",
+      "source": "page_getfeaturedproducts",
+      "target": "page_homepage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/page.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "page_getfeaturedproducts",
+      "_tgt": "mongodb_connectdb",
+      "source": "page_getfeaturedproducts",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/contact/page.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_contact_page_js",
+      "_tgt": "page_contactpage",
+      "source": "app_contact_page_js",
+      "target": "page_contactpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/contact/page.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "page_contactpage",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "page_contactpage",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/shop/page.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "app_shop_page_js",
+      "_tgt": "page_shopcontent",
+      "source": "app_shop_page_js",
+      "target": "page_shopcontent"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/shop/page.js",
+      "source_location": "L296",
+      "weight": 1.0,
+      "_src": "app_shop_page_js",
+      "_tgt": "page_shoppage",
+      "source": "app_shop_page_js",
+      "target": "page_shoppage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/shop/page.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "page_shopcontent",
+      "_tgt": "route_get",
+      "source": "page_shopcontent",
+      "target": "route_get"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/layout.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "app_admin_layout_js",
+      "_tgt": "layout_adminlayout",
+      "source": "app_admin_layout_js",
+      "target": "layout_adminlayout"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/page.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "app_admin_page_js",
+      "_tgt": "page_formatprice",
+      "source": "app_admin_page_js",
+      "target": "page_formatprice"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/page.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "app_admin_page_js",
+      "_tgt": "page_statcard",
+      "source": "app_admin_page_js",
+      "target": "page_statcard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/page.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "app_admin_page_js",
+      "_tgt": "page_adminoverviewpage",
+      "source": "app_admin_page_js",
+      "target": "page_adminoverviewpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/page.js",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "page_adminoverviewpage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_adminoverviewpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/products/page.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_admin_products_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_admin_products_page_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/orders/page.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "app_admin_orders_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_admin_orders_page_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/orders/[id]/page.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_admin_orders_id_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_admin_orders_id_page_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/orders/[id]/page.js",
+      "source_location": "L142",
+      "weight": 1.0,
+      "_src": "page_adminorderdetailpage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_adminorderdetailpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/analytics/page.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_admin_analytics_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_admin_analytics_page_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/analytics/page.js",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_src": "page_adminanalyticspage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_adminanalyticspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/order-success/page.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "app_order_success_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_order_success_page_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/order-success/page.js",
+      "source_location": "L157",
+      "weight": 1.0,
+      "_src": "page_ordersuccesspage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_ordersuccesspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L36",
+      "weight": 1.0,
+      "_src": "app_product_id_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_product_id_page_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L97",
+      "weight": 1.0,
+      "_src": "page_productpage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_productpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/checkout/page.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "app_checkout_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_checkout_page_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/checkout/page.js",
+      "source_location": "L184",
+      "weight": 1.0,
+      "_src": "page_checkoutpage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_checkoutpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/profile/orders/page.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_profile_orders_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_profile_orders_page_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/cart/page.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_cart_page_js",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "app_cart_page_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/cart/page.js",
+      "source_location": "L115",
+      "weight": 1.0,
+      "_src": "page_cartpage",
+      "_tgt": "page_formatprice",
+      "source": "page_formatprice",
+      "target": "page_cartpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/attendance/page.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_admin_attendance_page_js",
+      "_tgt": "page_attendancepage",
+      "source": "app_admin_attendance_page_js",
+      "target": "page_attendancepage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/attendance/report/page.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "app_admin_attendance_report_page_js",
+      "_tgt": "page_attendancereportpage",
+      "source": "app_admin_attendance_report_page_js",
+      "target": "page_attendancereportpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/customers/page.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "app_admin_customers_page_js",
+      "_tgt": "page_admincustomerspage",
+      "source": "app_admin_customers_page_js",
+      "target": "page_admincustomerspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/settings/page.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_admin_settings_page_js",
+      "_tgt": "page_getinitialform",
+      "source": "app_admin_settings_page_js",
+      "target": "page_getinitialform"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/settings/page.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "app_admin_settings_page_js",
+      "_tgt": "page_adminsettings",
+      "source": "app_admin_settings_page_js",
+      "target": "page_adminsettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/products/page.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "app_admin_products_page_js",
+      "_tgt": "page_adminproductspage",
+      "source": "app_admin_products_page_js",
+      "target": "page_adminproductspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/inventory/page.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "app_admin_inventory_page_js",
+      "_tgt": "page_stockbadge",
+      "source": "app_admin_inventory_page_js",
+      "target": "page_stockbadge"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/inventory/page.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "app_admin_inventory_page_js",
+      "_tgt": "page_admininventorypage",
+      "source": "app_admin_inventory_page_js",
+      "target": "page_admininventorypage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/orders/page.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "app_admin_orders_page_js",
+      "_tgt": "page_adminorderspage",
+      "source": "app_admin_orders_page_js",
+      "target": "page_adminorderspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/orders/[id]/page.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_admin_orders_id_page_js",
+      "_tgt": "page_adminorderdetailpage",
+      "source": "app_admin_orders_id_page_js",
+      "target": "page_adminorderdetailpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/custom-inquiries/page.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "app_admin_custom_inquiries_page_js",
+      "_tgt": "page_custominquiriesadmin",
+      "source": "app_admin_custom_inquiries_page_js",
+      "target": "page_custominquiriesadmin"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/analytics/page.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_admin_analytics_page_js",
+      "_tgt": "page_adminanalyticspage",
+      "source": "app_admin_analytics_page_js",
+      "target": "page_adminanalyticspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/admin/employees/page.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_admin_employees_page_js",
+      "_tgt": "page_employeespage",
+      "source": "app_admin_employees_page_js",
+      "target": "page_employeespage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/order-success/page.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "app_order_success_page_js",
+      "_tgt": "page_ordersuccesspage",
+      "source": "app_order_success_page_js",
+      "target": "page_ordersuccesspage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/order-success/page.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "page_ordersuccesspage",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "page_ordersuccesspage",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/order-success/page.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "page_ordersuccesspage",
+      "_tgt": "route_get",
+      "source": "page_ordersuccesspage",
+      "target": "route_get"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/about/page.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "app_about_page_js",
+      "_tgt": "page_aboutpage",
+      "source": "app_about_page_js",
+      "target": "page_aboutpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/about/page.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "page_aboutpage",
+      "_tgt": "settingsservice_getbusinessinfo",
+      "source": "page_aboutpage",
+      "target": "settingsservice_getbusinessinfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "app_product_id_page_js",
+      "_tgt": "page_getproduct",
+      "source": "app_product_id_page_js",
+      "target": "page_getproduct"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "app_product_id_page_js",
+      "_tgt": "page_getrelated",
+      "source": "app_product_id_page_js",
+      "target": "page_getrelated"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "app_product_id_page_js",
+      "_tgt": "page_generatemetadata",
+      "source": "app_product_id_page_js",
+      "target": "page_generatemetadata"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_src": "app_product_id_page_js",
+      "_tgt": "page_productpage",
+      "source": "app_product_id_page_js",
+      "target": "page_productpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "page_generatemetadata",
+      "_tgt": "page_getproduct",
+      "source": "page_getproduct",
+      "target": "page_generatemetadata"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_src": "page_productpage",
+      "_tgt": "page_getproduct",
+      "source": "page_getproduct",
+      "target": "page_productpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "page_getproduct",
+      "_tgt": "mongodb_connectdb",
+      "source": "page_getproduct",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L54",
+      "weight": 1.0,
+      "_src": "page_productpage",
+      "_tgt": "page_getrelated",
+      "source": "page_getrelated",
+      "target": "page_productpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/product/[id]/page.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "page_getrelated",
+      "_tgt": "mongodb_connectdb",
+      "source": "page_getrelated",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/checkout/page.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "app_checkout_page_js",
+      "_tgt": "page_checkoutpage",
+      "source": "app_checkout_page_js",
+      "target": "page_checkoutpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/register/page.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_register_page_js",
+      "_tgt": "page_registerpage",
+      "source": "app_register_page_js",
+      "target": "page_registerpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/profile/orders/page.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "app_profile_orders_page_js",
+      "_tgt": "page_myorderspage",
+      "source": "app_profile_orders_page_js",
+      "target": "page_myorderspage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/custom-furniture/page.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "app_custom_furniture_page_js",
+      "_tgt": "page_customfurniturepage",
+      "source": "app_custom_furniture_page_js",
+      "target": "page_customfurniturepage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/custom-furniture/page.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "page_customfurniturepage",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "page_customfurniturepage",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/cart/page.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "app_cart_page_js",
+      "_tgt": "page_cartpage",
+      "source": "app_cart_page_js",
+      "target": "page_cartpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "app_api_attendance_route_js",
+      "_tgt": "route_checkauth",
+      "source": "app_api_attendance_route_js",
+      "target": "route_checkauth"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "app_api_attendance_route_js",
+      "_tgt": "route_get",
+      "source": "app_api_attendance_route_js",
+      "target": "route_get"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_src": "app_api_attendance_route_js",
+      "_tgt": "route_post",
+      "source": "app_api_attendance_route_js",
+      "target": "route_post"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "route_checkauth",
+      "source": "route_checkauth",
+      "target": "route_get"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "route_checkauth",
+      "source": "route_checkauth",
+      "target": "route_post"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_api_shopday_route_js",
+      "_tgt": "route_checkauth",
+      "source": "route_checkauth",
+      "target": "app_api_shopday_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/settings/route.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "app_api_settings_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_settings_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/products/route.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_api_products_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_products_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_api_products_id_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_products_id_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/custom-inquiry/route.js",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "app_api_custom_inquiry_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_custom_inquiry_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "app_api_shopday_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_shopday_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "app_api_admin_settings_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_admin_settings_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/users/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_api_admin_users_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_admin_users_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/stats/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_api_admin_stats_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_admin_stats_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/inventory/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_api_inventory_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_inventory_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/inventory/logs/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_api_inventory_logs_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_inventory_logs_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_api_orders_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_orders_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/me/route.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "app_api_orders_me_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_orders_me_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L64",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_orders_id_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "route_put"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "route_buildorderquery",
+      "source": "route_get",
+      "target": "route_buildorderquery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_invoice_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_orders_id_invoice_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "route_handleinvoicerequest",
+      "source": "route_get",
+      "target": "route_handleinvoicerequest"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/employees/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_api_employees_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_employees_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_api_employees_id_route_js",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "app_api_employees_id_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "response_errorresponse",
+      "source": "route_get",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "mongodb_connectdb",
+      "source": "route_get",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L52",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "response_successresponse",
+      "source": "route_get",
+      "target": "response_successresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "response_handleapierror",
+      "source": "route_get",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/settings/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "settingsservice_getbusinessinfo",
+      "source": "route_get",
+      "target": "settingsservice_getbusinessinfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "mongodb_validateobjectid",
+      "source": "route_get",
+      "target": "mongodb_validateobjectid"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/custom-inquiry/route.js",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "session_requireadminsession",
+      "source": "route_get",
+      "target": "session_requireadminsession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_src": "route_get",
+      "_tgt": "session_requireusersession",
+      "source": "route_get",
+      "target": "session_requireusersession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/login/page.js",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "page_loginform",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "page_loginform"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "ratelimit_getratelimiter",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "ratelimit_getratelimiter"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L70",
+      "weight": 1.0,
+      "_src": "ratelimit_memoryratelimit",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "ratelimit_memoryratelimit"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L122",
+      "weight": 1.0,
+      "_src": "ratelimit_getclientip",
+      "_tgt": "route_get",
+      "source": "route_get",
+      "target": "ratelimit_getclientip"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_api_contact_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_contact_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/products/route.js",
+      "source_location": "L93",
+      "weight": 1.0,
+      "_src": "app_api_products_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_products_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/custom-inquiry/route.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "app_api_custom_inquiry_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_custom_inquiry_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/shopday/route.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "app_api_shopday_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_shopday_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/register/route.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "app_api_register_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_register_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/inventory/update/route.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "app_api_inventory_update_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_inventory_update_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "app_api_orders_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_orders_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/email-invoice/route.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_email_invoice_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_orders_id_email_invoice_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/email-invoice/route.js",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "route_buildorderquery",
+      "source": "route_post",
+      "target": "route_buildorderquery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_invoice_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_orders_id_invoice_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "route_handleinvoicerequest",
+      "source": "route_post",
+      "target": "route_handleinvoicerequest"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "app_api_upload_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_upload_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L70",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "route_uploadbuffertocloudinary",
+      "source": "route_post",
+      "target": "route_uploadbuffertocloudinary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/employees/route.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "app_api_employees_route_js",
+      "_tgt": "route_post",
+      "source": "route_post",
+      "target": "app_api_employees_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "response_errorresponse",
+      "source": "route_post",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "mongodb_connectdb",
+      "source": "route_post",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L85",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "response_successresponse",
+      "source": "route_post",
+      "target": "response_successresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/attendance/route.js",
+      "source_location": "L90",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "response_handleapierror",
+      "source": "route_post",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "ratelimit_getclientip",
+      "source": "route_post",
+      "target": "ratelimit_getclientip"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "ratelimit_ratelimit",
+      "source": "route_post",
+      "target": "ratelimit_ratelimit"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "common_sanitizestring",
+      "source": "route_post",
+      "target": "common_sanitizestring"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "common_isvalidemail",
+      "source": "route_post",
+      "target": "common_isvalidemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/contact/route.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "emailsender_sendcontactemail",
+      "source": "route_post",
+      "target": "emailsender_sendcontactemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/route.js",
+      "source_location": "L95",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "session_requireadminsession",
+      "source": "route_post",
+      "target": "session_requireadminsession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/route.js",
+      "source_location": "L100",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "product_validateproductpayload",
+      "source": "route_post",
+      "target": "product_validateproductpayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/route.js",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "logger_loginfo",
+      "source": "route_post",
+      "target": "logger_loginfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/custom-inquiry/route.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "emailsender_sendcustominquiryemail",
+      "source": "route_post",
+      "target": "emailsender_sendcustominquiryemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/custom-inquiry/route.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "logger_logerror",
+      "source": "route_post",
+      "target": "logger_logerror"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/register/route.js",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "common_isvalidpassword",
+      "source": "route_post",
+      "target": "common_isvalidpassword"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/inventory/update/route.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "inventory_validateinventoryupdatepayload",
+      "source": "route_post",
+      "target": "inventory_validateinventoryupdatepayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/inventory/update/route.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "inventoryservice_applyinventoryupdate",
+      "source": "route_post",
+      "target": "inventoryservice_applyinventoryupdate"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "session_requireusersession",
+      "source": "route_post",
+      "target": "session_requireusersession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "order_validateorderpayload",
+      "source": "route_post",
+      "target": "order_validateorderpayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "orderservice_createorderwithinventoryadjustments",
+      "source": "route_post",
+      "target": "orderservice_createorderwithinventoryadjustments"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/route.js",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "invoiceservice_autogenerateandsendinvoicefororder",
+      "source": "route_post",
+      "target": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/email-invoice/route.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "invoiceservice_ensureinvoicefororder",
+      "source": "route_post",
+      "target": "invoiceservice_ensureinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/email-invoice/route.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "invoiceservice_sendorderinvoiceemail",
+      "source": "route_post",
+      "target": "invoiceservice_sendorderinvoiceemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L78",
+      "weight": 1.0,
+      "_src": "route_post",
+      "_tgt": "cloudinary_getoptimizedcloudinaryurl",
+      "source": "route_post",
+      "target": "cloudinary_getoptimizedcloudinaryurl"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "app_api_products_id_route_js",
+      "_tgt": "route_put",
+      "source": "app_api_products_id_route_js",
+      "target": "route_put"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "app_api_products_id_route_js",
+      "_tgt": "route_delete",
+      "source": "app_api_products_id_route_js",
+      "target": "route_delete"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L49",
+      "weight": 1.0,
+      "_src": "app_api_admin_settings_route_js",
+      "_tgt": "route_put",
+      "source": "route_put",
+      "target": "app_api_admin_settings_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "route_normalizepayload",
+      "source": "route_put",
+      "target": "route_normalizepayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "route_validatepayload",
+      "source": "route_put",
+      "target": "route_validatepayload"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_route_js",
+      "_tgt": "route_put",
+      "source": "route_put",
+      "target": "app_api_orders_id_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "route_buildorderquery",
+      "source": "route_put",
+      "target": "route_buildorderquery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "app_api_employees_id_route_js",
+      "_tgt": "route_put",
+      "source": "route_put",
+      "target": "app_api_employees_id_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "session_requireadminsession",
+      "source": "route_put",
+      "target": "session_requireadminsession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "mongodb_connectdb",
+      "source": "route_put",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "mongodb_validateobjectid",
+      "source": "route_put",
+      "target": "mongodb_validateobjectid"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "response_errorresponse",
+      "source": "route_put",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "product_validateproductpayload",
+      "source": "route_put",
+      "target": "product_validateproductpayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "logger_loginfo",
+      "source": "route_put",
+      "target": "logger_loginfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "response_successresponse",
+      "source": "route_put",
+      "target": "response_successresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L44",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "response_handleapierror",
+      "source": "route_put",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "settingsservice_updatebusinessinfo",
+      "source": "route_put",
+      "target": "settingsservice_updatebusinessinfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "route_put",
+      "_tgt": "logger_logerror",
+      "source": "route_put",
+      "target": "logger_logerror"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/employees/[id]/route.js",
+      "source_location": "L47",
+      "weight": 1.0,
+      "_src": "app_api_employees_id_route_js",
+      "_tgt": "route_delete",
+      "source": "route_delete",
+      "target": "app_api_employees_id_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "session_requireadminsession",
+      "source": "route_delete",
+      "target": "session_requireadminsession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "mongodb_connectdb",
+      "source": "route_delete",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "mongodb_validateobjectid",
+      "source": "route_delete",
+      "target": "mongodb_validateobjectid"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "response_errorresponse",
+      "source": "route_delete",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L59",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "logger_loginfo",
+      "source": "route_delete",
+      "target": "logger_loginfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L60",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "response_successresponse",
+      "source": "route_delete",
+      "target": "response_successresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/products/[id]/route.js",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "route_delete",
+      "_tgt": "response_handleapierror",
+      "source": "route_delete",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_api_admin_settings_route_js",
+      "_tgt": "route_normalizepayload",
+      "source": "app_api_admin_settings_route_js",
+      "target": "route_normalizepayload"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_src": "app_api_admin_settings_route_js",
+      "_tgt": "route_validatepayload",
+      "source": "app_api_admin_settings_route_js",
+      "target": "route_validatepayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "route_normalizepayload",
+      "_tgt": "common_sanitizestring",
+      "source": "route_normalizepayload",
+      "target": "common_sanitizestring"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/admin/settings/route.js",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "route_validatepayload",
+      "_tgt": "common_isvalidemail",
+      "source": "route_validatepayload",
+      "target": "common_isvalidemail"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_route_js",
+      "_tgt": "route_buildorderquery",
+      "source": "app_api_orders_id_route_js",
+      "target": "route_buildorderquery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/email-invoice/route.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_email_invoice_route_js",
+      "_tgt": "route_buildorderquery",
+      "source": "route_buildorderquery",
+      "target": "app_api_orders_id_email_invoice_route_js"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_invoice_route_js",
+      "_tgt": "route_buildorderquery",
+      "source": "route_buildorderquery",
+      "target": "app_api_orders_id_invoice_route_js"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "route_buildorderquery",
+      "source": "route_buildorderquery",
+      "target": "route_handleinvoicerequest"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/route.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "route_buildorderquery",
+      "_tgt": "mongodb_validateobjectid",
+      "source": "route_buildorderquery",
+      "target": "mongodb_validateobjectid"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "app_api_orders_id_invoice_route_js",
+      "_tgt": "route_handleinvoicerequest",
+      "source": "app_api_orders_id_invoice_route_js",
+      "target": "route_handleinvoicerequest"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "response_errorresponse",
+      "source": "route_handleinvoicerequest",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "mongodb_connectdb",
+      "source": "route_handleinvoicerequest",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "invoiceservice_ensureinvoicefororder",
+      "source": "route_handleinvoicerequest",
+      "target": "invoiceservice_ensureinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "response_successresponse",
+      "source": "route_handleinvoicerequest",
+      "target": "response_successresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "pdfgenerator_generateinvoicepdf",
+      "source": "route_handleinvoicerequest",
+      "target": "pdfgenerator_generateinvoicepdf"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/orders/[id]/invoice/route.js",
+      "source_location": "L94",
+      "weight": 1.0,
+      "_src": "route_handleinvoicerequest",
+      "_tgt": "response_handleapierror",
+      "source": "route_handleinvoicerequest",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "app_api_upload_route_js",
+      "_tgt": "route_uploadbuffertocloudinary",
+      "source": "app_api_upload_route_js",
+      "target": "route_uploadbuffertocloudinary"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/api/upload/route.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "route_uploadbuffertocloudinary",
+      "_tgt": "cloudinary_getcloudinary",
+      "source": "route_uploadbuffertocloudinary",
+      "target": "cloudinary_getcloudinary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/login/page.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "app_login_page_js",
+      "_tgt": "page_loginform",
+      "source": "app_login_page_js",
+      "target": "page_loginform"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/login/page.js",
+      "source_location": "L125",
+      "weight": 1.0,
+      "_src": "app_login_page_js",
+      "_tgt": "page_loginpage",
+      "source": "app_login_page_js",
+      "target": "page_loginpage"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/login/page.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "page_loginform",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "page_loginform",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/api/upload.route.test.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "tests_api_upload_route_test_js",
+      "_tgt": "upload_route_test_createrequest",
+      "source": "tests_api_upload_route_test_js",
+      "target": "upload_route_test_createrequest"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/HeroSection.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "components_herosection_jsx",
+      "_tgt": "herosection_herosection",
+      "source": "components_herosection_jsx",
+      "target": "herosection_herosection"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Footer.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "components_footer_jsx",
+      "_tgt": "footer_footer",
+      "source": "components_footer_jsx",
+      "target": "footer_footer"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/Footer.jsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "footer_footer",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "footer_footer",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ProductGallery.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "components_productgallery_jsx",
+      "_tgt": "productgallery_productgallery",
+      "source": "components_productgallery_jsx",
+      "target": "productgallery_productgallery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/AddToCartSection.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "components_addtocartsection_jsx",
+      "_tgt": "addtocartsection_addtocartsection",
+      "source": "components_addtocartsection_jsx",
+      "target": "addtocartsection_addtocartsection"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/WhatsAppButton.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "components_whatsappbutton_jsx",
+      "_tgt": "whatsappbutton_whatsappbutton",
+      "source": "components_whatsappbutton_jsx",
+      "target": "whatsappbutton_whatsappbutton"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/WhatsAppButton.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "whatsappbutton_whatsappbutton",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "whatsappbutton_whatsappbutton",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Navbar.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "components_navbar_jsx",
+      "_tgt": "navbar_navbar",
+      "source": "components_navbar_jsx",
+      "target": "navbar_navbar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ProductGrid.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "components_productgrid_jsx",
+      "_tgt": "productgrid_productgrid",
+      "source": "components_productgrid_jsx",
+      "target": "productgrid_productgrid"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "components_productcard_jsx",
+      "_tgt": "productcard_formatprice",
+      "source": "components_productcard_jsx",
+      "target": "productcard_formatprice"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "components_productcard_jsx",
+      "_tgt": "productcard_productcard",
+      "source": "components_productcard_jsx",
+      "target": "productcard_productcard"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ProductCard.jsx",
+      "source_location": "L83",
+      "weight": 1.0,
+      "_src": "productcard_productcard",
+      "_tgt": "productcard_formatprice",
+      "source": "productcard_formatprice",
+      "target": "productcard_productcard"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "components/CartItem.jsx",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "cartitem_cartitem",
+      "_tgt": "productcard_formatprice",
+      "source": "productcard_formatprice",
+      "target": "cartitem_cartitem"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/CategoryCard.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "components_categorycard_jsx",
+      "_tgt": "categorycard_categorycard",
+      "source": "components_categorycard_jsx",
+      "target": "categorycard_categorycard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/CartItem.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "components_cartitem_jsx",
+      "_tgt": "cartitem_cartitem",
+      "source": "components_cartitem_jsx",
+      "target": "cartitem_cartitem"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Providers.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "components_providers_js",
+      "_tgt": "providers_providers",
+      "source": "components_providers_js",
+      "target": "providers_providers"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/NewsletterForm.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_src": "components_newsletterform_jsx",
+      "_tgt": "newsletterform_newsletterform",
+      "source": "components_newsletterform_jsx",
+      "target": "newsletterform_newsletterform"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/admin/AdminSidebar.jsx",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_src": "components_admin_adminsidebar_jsx",
+      "_tgt": "adminsidebar_adminsidebar",
+      "source": "components_admin_adminsidebar_jsx",
+      "target": "adminsidebar_adminsidebar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/seed.js",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "scripts_seed_js",
+      "_tgt": "seed_getbusinessinfo",
+      "source": "scripts_seed_js",
+      "target": "seed_getbusinessinfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/seed.js",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_src": "scripts_seed_js",
+      "_tgt": "seed_seed",
+      "source": "scripts_seed_js",
+      "target": "seed_seed"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/seed.js",
+      "source_location": "L81",
+      "weight": 1.0,
+      "_src": "seed_seed",
+      "_tgt": "seed_getbusinessinfo",
+      "source": "seed_getbusinessinfo",
+      "target": "seed_seed"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/seed_test_product.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "scripts_seed_test_product_js",
+      "_tgt": "seed_test_product_seed",
+      "source": "scripts_seed_test_product_js",
+      "target": "seed_test_product_seed"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "scripts/seed_test_product.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "seed_test_product_seed",
+      "_tgt": "mongodb_connectdb",
+      "source": "seed_test_product_seed",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/mongodb.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "lib_mongodb_js",
+      "_tgt": "mongodb_connectdb",
+      "source": "lib_mongodb_js",
+      "target": "mongodb_connectdb"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/settingsService.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "settingsservice_getbusinessinfo",
+      "_tgt": "mongodb_connectdb",
+      "source": "mongodb_connectdb",
+      "target": "settingsservice_getbusinessinfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/settingsService.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "settingsservice_updatebusinessinfo",
+      "_tgt": "mongodb_connectdb",
+      "source": "mongodb_connectdb",
+      "target": "settingsservice_updatebusinessinfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generateinvoicepdf",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generateinvoicepdf"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generateheader",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generateheader"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generatecustomerinformation",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generatecustomerinformation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L77",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generateinvoicetable",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generateinvoicetable"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L126",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generatefooter",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generatefooter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L134",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generatetablerow",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generatetablerow"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L144",
+      "weight": 1.0,
+      "_src": "lib_pdfgenerator_js",
+      "_tgt": "pdfgenerator_generatehr",
+      "source": "lib_pdfgenerator_js",
+      "target": "pdfgenerator_generatehr"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "services/invoiceService.js",
+      "source_location": "L105",
+      "weight": 1.0,
+      "_src": "invoiceservice_sendorderinvoiceemail",
+      "_tgt": "pdfgenerator_generateinvoicepdf",
+      "source": "pdfgenerator_generateinvoicepdf",
+      "target": "invoiceservice_sendorderinvoiceemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "pdfgenerator_generatecustomerinformation",
+      "_tgt": "pdfgenerator_generatehr",
+      "source": "pdfgenerator_generatecustomerinformation",
+      "target": "pdfgenerator_generatehr"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L88",
+      "weight": 1.0,
+      "_src": "pdfgenerator_generateinvoicetable",
+      "_tgt": "pdfgenerator_generatetablerow",
+      "source": "pdfgenerator_generateinvoicetable",
+      "target": "pdfgenerator_generatetablerow"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/pdfGenerator.js",
+      "source_location": "L89",
+      "weight": 1.0,
+      "_src": "pdfgenerator_generateinvoicetable",
+      "_tgt": "pdfgenerator_generatehr",
+      "source": "pdfgenerator_generateinvoicetable",
+      "target": "pdfgenerator_generatehr"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/settingsService.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "lib_settingsservice_js",
+      "_tgt": "settingsservice_getbusinessinfo",
+      "source": "lib_settingsservice_js",
+      "target": "settingsservice_getbusinessinfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/settingsService.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "lib_settingsservice_js",
+      "_tgt": "settingsservice_updatebusinessinfo",
+      "source": "lib_settingsservice_js",
+      "target": "settingsservice_updatebusinessinfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/settingsService.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "settingsservice_getbusinessinfo",
+      "_tgt": "businessconfig_mergebusinessinfo",
+      "source": "settingsservice_getbusinessinfo",
+      "target": "businessconfig_mergebusinessinfo"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/emailSender.js",
+      "source_location": "L48",
+      "weight": 1.0,
+      "_src": "emailsender_sendinvoiceemail",
+      "_tgt": "settingsservice_getbusinessinfo",
+      "source": "settingsservice_getbusinessinfo",
+      "target": "emailsender_sendinvoiceemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/emailSender.js",
+      "source_location": "L98",
+      "weight": 1.0,
+      "_src": "emailsender_sendcontactemail",
+      "_tgt": "settingsservice_getbusinessinfo",
+      "source": "settingsservice_getbusinessinfo",
+      "target": "emailsender_sendcontactemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/emailSender.js",
+      "source_location": "L131",
+      "weight": 1.0,
+      "_src": "emailsender_sendcustominquiryemail",
+      "_tgt": "settingsservice_getbusinessinfo",
+      "source": "settingsservice_getbusinessinfo",
+      "target": "emailsender_sendcustominquiryemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/settingsService.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "settingsservice_updatebusinessinfo",
+      "_tgt": "businessconfig_mergebusinessinfo",
+      "source": "settingsservice_updatebusinessinfo",
+      "target": "businessconfig_mergebusinessinfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/useBusinessSettings.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "lib_usebusinesssettings_js",
+      "_tgt": "usebusinesssettings_usebusinesssettings",
+      "source": "lib_usebusinesssettings_js",
+      "target": "usebusinesssettings_usebusinesssettings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "lib_cloudinary_js",
+      "_tgt": "cloudinary_normalizeenv",
+      "source": "lib_cloudinary_js",
+      "target": "cloudinary_normalizeenv"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "lib_cloudinary_js",
+      "_tgt": "cloudinary_requireenv",
+      "source": "lib_cloudinary_js",
+      "target": "cloudinary_requireenv"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "lib_cloudinary_js",
+      "_tgt": "cloudinary_getcloudinary",
+      "source": "lib_cloudinary_js",
+      "target": "cloudinary_getcloudinary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_src": "lib_cloudinary_js",
+      "_tgt": "cloudinary_getoptimizedcloudinaryurl",
+      "source": "lib_cloudinary_js",
+      "target": "cloudinary_getoptimizedcloudinaryurl"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "cloudinary_requireenv",
+      "_tgt": "cloudinary_normalizeenv",
+      "source": "cloudinary_normalizeenv",
+      "target": "cloudinary_requireenv"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "cloudinary_getcloudinary",
+      "_tgt": "cloudinary_requireenv",
+      "source": "cloudinary_requireenv",
+      "target": "cloudinary_getcloudinary"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/cloudinary.js",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_src": "cloudinary_getoptimizedcloudinaryurl",
+      "_tgt": "cloudinary_getcloudinary",
+      "source": "cloudinary_getcloudinary",
+      "target": "cloudinary_getoptimizedcloudinaryurl"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "lib_emailsender_js",
+      "_tgt": "emailsender_createtransporter",
+      "source": "lib_emailsender_js",
+      "target": "emailsender_createtransporter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "lib_emailsender_js",
+      "_tgt": "emailsender_gettransporter",
+      "source": "lib_emailsender_js",
+      "target": "emailsender_gettransporter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L46",
+      "weight": 1.0,
+      "_src": "lib_emailsender_js",
+      "_tgt": "emailsender_sendinvoiceemail",
+      "source": "lib_emailsender_js",
+      "target": "emailsender_sendinvoiceemail"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L97",
+      "weight": 1.0,
+      "_src": "lib_emailsender_js",
+      "_tgt": "emailsender_sendcontactemail",
+      "source": "lib_emailsender_js",
+      "target": "emailsender_sendcontactemail"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L130",
+      "weight": 1.0,
+      "_src": "lib_emailsender_js",
+      "_tgt": "emailsender_sendcustominquiryemail",
+      "source": "lib_emailsender_js",
+      "target": "emailsender_sendcustominquiryemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L50",
+      "weight": 1.0,
+      "_src": "emailsender_sendinvoiceemail",
+      "_tgt": "emailsender_gettransporter",
+      "source": "emailsender_gettransporter",
+      "target": "emailsender_sendinvoiceemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L102",
+      "weight": 1.0,
+      "_src": "emailsender_sendcontactemail",
+      "_tgt": "emailsender_gettransporter",
+      "source": "emailsender_gettransporter",
+      "target": "emailsender_sendcontactemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/emailSender.js",
+      "source_location": "L135",
+      "weight": 1.0,
+      "_src": "emailsender_sendcustominquiryemail",
+      "_tgt": "emailsender_gettransporter",
+      "source": "emailsender_gettransporter",
+      "target": "emailsender_sendcustominquiryemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "services/invoiceService.js",
+      "source_location": "L107",
+      "weight": 1.0,
+      "_src": "invoiceservice_sendorderinvoiceemail",
+      "_tgt": "emailsender_sendinvoiceemail",
+      "source": "emailsender_sendinvoiceemail",
+      "target": "invoiceservice_sendorderinvoiceemail"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/businessConfig.js",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_src": "lib_businessconfig_js",
+      "_tgt": "businessconfig_mergebusinessinfo",
+      "source": "lib_businessconfig_js",
+      "target": "businessconfig_mergebusinessinfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "lib_auth_session_js",
+      "_tgt": "session_getserverauthsession",
+      "source": "lib_auth_session_js",
+      "target": "session_getserverauthsession"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_src": "lib_auth_session_js",
+      "_tgt": "session_requireusersession",
+      "source": "lib_auth_session_js",
+      "target": "session_requireusersession"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "lib_auth_session_js",
+      "_tgt": "session_requireadminsession",
+      "source": "lib_auth_session_js",
+      "target": "session_requireadminsession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_src": "session_requireusersession",
+      "_tgt": "session_getserverauthsession",
+      "source": "session_getserverauthsession",
+      "target": "session_requireusersession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/auth/session.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "session_requireadminsession",
+      "_tgt": "session_requireusersession",
+      "source": "session_requireusersession",
+      "target": "session_requireadminsession"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/auth/session.js",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "session_requireusersession",
+      "_tgt": "response_errorresponse",
+      "source": "session_requireusersession",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "lib/auth/session.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "session_requireadminsession",
+      "_tgt": "response_errorresponse",
+      "source": "session_requireadminsession",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/logger.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "lib_api_logger_js",
+      "_tgt": "logger_loginfo",
+      "source": "lib_api_logger_js",
+      "target": "logger_loginfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/logger.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "lib_api_logger_js",
+      "_tgt": "logger_logerror",
+      "source": "lib_api_logger_js",
+      "target": "logger_logerror"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "services/inventoryService.js",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_src": "inventoryservice_applyinventoryupdate",
+      "_tgt": "logger_loginfo",
+      "source": "logger_loginfo",
+      "target": "inventoryservice_applyinventoryupdate"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "services/invoiceService.js",
+      "source_location": "L122",
+      "weight": 1.0,
+      "_src": "invoiceservice_autogenerateandsendinvoicefororder",
+      "_tgt": "logger_loginfo",
+      "source": "logger_loginfo",
+      "target": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "services/orderService.js",
+      "source_location": "L57",
+      "weight": 1.0,
+      "_src": "orderservice_createorderwithinventoryadjustments",
+      "_tgt": "logger_loginfo",
+      "source": "logger_loginfo",
+      "target": "orderservice_createorderwithinventoryadjustments"
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "services/invoiceService.js",
+      "source_location": "L147",
+      "weight": 1.0,
+      "_src": "invoiceservice_autogenerateandsendinvoicefororder",
+      "_tgt": "logger_logerror",
+      "source": "logger_logerror",
+      "target": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_getredisclient",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_getredisclient"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_getratelimiter",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_getratelimiter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_warnfallbackonce",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_warnfallbackonce"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_warnredisfailureonce",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_warnredisfailureonce"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L68",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_memoryratelimit",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_memoryratelimit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L95",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_ratelimit",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_ratelimit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L121",
+      "weight": 1.0,
+      "_src": "lib_api_ratelimit_js",
+      "_tgt": "ratelimit_getclientip",
+      "source": "lib_api_ratelimit_js",
+      "target": "ratelimit_getclientip"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "ratelimit_getratelimiter",
+      "_tgt": "ratelimit_getredisclient",
+      "source": "ratelimit_getredisclient",
+      "target": "ratelimit_getratelimiter"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L96",
+      "weight": 1.0,
+      "_src": "ratelimit_ratelimit",
+      "_tgt": "ratelimit_getratelimiter",
+      "source": "ratelimit_getratelimiter",
+      "target": "ratelimit_ratelimit"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L99",
+      "weight": 1.0,
+      "_src": "ratelimit_ratelimit",
+      "_tgt": "ratelimit_warnfallbackonce",
+      "source": "ratelimit_warnfallbackonce",
+      "target": "ratelimit_ratelimit"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_src": "ratelimit_ratelimit",
+      "_tgt": "ratelimit_warnredisfailureonce",
+      "source": "ratelimit_warnredisfailureonce",
+      "target": "ratelimit_ratelimit"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/rateLimit.js",
+      "source_location": "L100",
+      "weight": 1.0,
+      "_src": "ratelimit_ratelimit",
+      "_tgt": "ratelimit_memoryratelimit",
+      "source": "ratelimit_memoryratelimit",
+      "target": "ratelimit_ratelimit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/response.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "lib_api_response_js",
+      "_tgt": "response_successresponse",
+      "source": "lib_api_response_js",
+      "target": "response_successresponse"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/response.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "lib_api_response_js",
+      "_tgt": "response_errorresponse",
+      "source": "lib_api_response_js",
+      "target": "response_errorresponse"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/response.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "lib_api_response_js",
+      "_tgt": "response_handleapierror",
+      "source": "lib_api_response_js",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/api/response.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_src": "response_handleapierror",
+      "_tgt": "response_errorresponse",
+      "source": "response_errorresponse",
+      "target": "response_handleapierror"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/order.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "lib_validation_order_js",
+      "_tgt": "order_validateorderpayload",
+      "source": "lib_validation_order_js",
+      "target": "order_validateorderpayload"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/mongodb.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "lib_validation_mongodb_js",
+      "_tgt": "mongodb_validateobjectid",
+      "source": "lib_validation_mongodb_js",
+      "target": "mongodb_validateobjectid"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/inventory.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "lib_validation_inventory_js",
+      "_tgt": "inventory_validateinventoryupdatepayload",
+      "source": "lib_validation_inventory_js",
+      "target": "inventory_validateinventoryupdatepayload"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_src": "lib_validation_common_js",
+      "_tgt": "common_sanitizestring",
+      "source": "lib_validation_common_js",
+      "target": "common_sanitizestring"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "lib_validation_common_js",
+      "_tgt": "common_isvalidemail",
+      "source": "lib_validation_common_js",
+      "target": "common_isvalidemail"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/common.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "lib_validation_common_js",
+      "_tgt": "common_isvalidpassword",
+      "source": "lib_validation_common_js",
+      "target": "common_isvalidpassword"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/validation/product.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "lib_validation_product_js",
+      "_tgt": "product_validateproductpayload",
+      "source": "lib_validation_product_js",
+      "target": "product_validateproductpayload"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/inventoryService.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "services_inventoryservice_js",
+      "_tgt": "inventoryservice_applyinventoryupdate",
+      "source": "services_inventoryservice_js",
+      "target": "inventoryservice_applyinventoryupdate"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_buildcustomerdetails",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_buildcustomerdetails"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_buildinvoiceid",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_buildinvoiceid"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_buildproductswithwarranty",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_buildproductswithwarranty"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_buildpdfpayload",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_buildpdfpayload"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L69",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_ensureinvoicefororder",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_ensureinvoicefororder"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L98",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_sendorderinvoiceemail",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_sendorderinvoiceemail"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L117",
+      "weight": 1.0,
+      "_src": "services_invoiceservice_js",
+      "_tgt": "invoiceservice_autogenerateandsendinvoicefororder",
+      "source": "services_invoiceservice_js",
+      "target": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L65",
+      "weight": 1.0,
+      "_src": "invoiceservice_buildpdfpayload",
+      "_tgt": "invoiceservice_buildcustomerdetails",
+      "source": "invoiceservice_buildcustomerdetails",
+      "target": "invoiceservice_buildpdfpayload"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L77",
+      "weight": 1.0,
+      "_src": "invoiceservice_ensureinvoicefororder",
+      "_tgt": "invoiceservice_buildinvoiceid",
+      "source": "invoiceservice_buildinvoiceid",
+      "target": "invoiceservice_ensureinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L75",
+      "weight": 1.0,
+      "_src": "invoiceservice_ensureinvoicefororder",
+      "_tgt": "invoiceservice_buildproductswithwarranty",
+      "source": "invoiceservice_buildproductswithwarranty",
+      "target": "invoiceservice_ensureinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_src": "invoiceservice_sendorderinvoiceemail",
+      "_tgt": "invoiceservice_buildpdfpayload",
+      "source": "invoiceservice_buildpdfpayload",
+      "target": "invoiceservice_sendorderinvoiceemail"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L136",
+      "weight": 1.0,
+      "_src": "invoiceservice_autogenerateandsendinvoicefororder",
+      "_tgt": "invoiceservice_ensureinvoicefororder",
+      "source": "invoiceservice_ensureinvoicefororder",
+      "target": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/invoiceService.js",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_src": "invoiceservice_autogenerateandsendinvoicefororder",
+      "_tgt": "invoiceservice_sendorderinvoiceemail",
+      "source": "invoiceservice_sendorderinvoiceemail",
+      "target": "invoiceservice_autogenerateandsendinvoicefororder"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/orderService.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "services_orderservice_js",
+      "_tgt": "orderservice_getindiadatekey",
+      "source": "services_orderservice_js",
+      "target": "orderservice_getindiadatekey"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/orderService.js",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_src": "services_orderservice_js",
+      "_tgt": "orderservice_generateordertrackingid",
+      "source": "services_orderservice_js",
+      "target": "orderservice_generateordertrackingid"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/orderService.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_src": "services_orderservice_js",
+      "_tgt": "orderservice_createorderwithinventoryadjustments",
+      "source": "services_orderservice_js",
+      "target": "orderservice_createorderwithinventoryadjustments"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/orderService.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "orderservice_generateordertrackingid",
+      "_tgt": "orderservice_getindiadatekey",
+      "source": "orderservice_getindiadatekey",
+      "target": "orderservice_generateordertrackingid"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "services/orderService.js",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_src": "orderservice_createorderwithinventoryadjustments",
+      "_tgt": "orderservice_generateordertrackingid",
+      "source": "orderservice_generateordertrackingid",
+      "target": "orderservice_createorderwithinventoryadjustments"
+    },
+    {
+      "relation": "documents",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "platform_furniture_store",
+      "source": "doc_readme",
+      "target": "platform_furniture_store"
+    },
+    {
+      "relation": "identifies stack as",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "tech_nextjs",
+      "source": "doc_readme",
+      "target": "tech_nextjs"
+    },
+    {
+      "relation": "identifies database as",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "tech_mongodb",
+      "source": "doc_readme",
+      "target": "tech_mongodb"
+    },
+    {
+      "relation": "identifies authentication as",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "tech_nextauth",
+      "source": "doc_readme",
+      "target": "tech_nextauth"
+    },
+    {
+      "relation": "lists integration with",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "tech_cloudinary",
+      "source": "doc_readme",
+      "target": "tech_cloudinary"
+    },
+    {
+      "relation": "lists integration with",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "tech_nodemailer_smtp",
+      "source": "doc_readme",
+      "target": "tech_nodemailer_smtp"
+    },
+    {
+      "relation": "lists rate limiting via",
+      "confidence": "EXTRACTED",
+      "_src": "doc_readme",
+      "_tgt": "tech_upstash_redis",
+      "source": "doc_readme",
+      "target": "tech_upstash_redis"
+    },
+    {
+      "relation": "recommends deployment on",
+      "confidence": "EXTRACTED",
+      "_src": "doc_deployment",
+      "_tgt": "platform_vercel",
+      "source": "doc_deployment",
+      "target": "platform_vercel"
+    },
+    {
+      "relation": "targets direct hosting for",
+      "confidence": "EXTRACTED",
+      "_src": "doc_deployment",
+      "_tgt": "tech_nextjs",
+      "source": "doc_deployment",
+      "target": "tech_nextjs"
+    },
+    {
+      "relation": "requires environment variable for",
+      "confidence": "EXTRACTED",
+      "_src": "doc_deployment",
+      "_tgt": "tech_mongodb",
+      "source": "doc_deployment",
+      "target": "tech_mongodb"
+    },
+    {
+      "relation": "requires environment variables for",
+      "confidence": "EXTRACTED",
+      "_src": "doc_deployment",
+      "_tgt": "tech_cloudinary",
+      "source": "doc_deployment",
+      "target": "tech_cloudinary"
+    },
+    {
+      "relation": "requires environment variables for",
+      "confidence": "EXTRACTED",
+      "_src": "doc_deployment",
+      "_tgt": "tech_upstash_redis",
+      "source": "doc_deployment",
+      "target": "tech_upstash_redis"
+    },
+    {
+      "relation": "represents generic file asset for",
+      "confidence": "INFERRED",
+      "_src": "img_file_svg",
+      "_tgt": "platform_furniture_store",
+      "source": "platform_furniture_store",
+      "target": "img_file_svg"
+    },
+    {
+      "relation": "represents global/web asset for",
+      "confidence": "INFERRED",
+      "_src": "img_globe_svg",
+      "_tgt": "platform_furniture_store",
+      "source": "platform_furniture_store",
+      "target": "img_globe_svg"
+    },
+    {
+      "relation": "represents UI/window asset for",
+      "confidence": "INFERRED",
+      "_src": "img_window_svg",
+      "_tgt": "platform_furniture_store",
+      "source": "platform_furniture_store",
+      "target": "img_window_svg"
+    },
+    {
+      "relation": "is stored as uploaded product image in",
+      "confidence": "INFERRED",
+      "_src": "img_uploaded_product",
+      "_tgt": "platform_furniture_store",
+      "source": "platform_furniture_store",
+      "target": "img_uploaded_product"
+    },
+    {
+      "relation": "depicts logo of",
+      "confidence": "EXTRACTED",
+      "_src": "img_next_svg",
+      "_tgt": "tech_nextjs",
+      "source": "tech_nextjs",
+      "target": "img_next_svg"
+    },
+    {
+      "relation": "depicts logo of",
+      "confidence": "EXTRACTED",
+      "_src": "img_vercel_svg",
+      "_tgt": "platform_vercel",
+      "source": "platform_vercel",
+      "target": "img_vercel_svg"
+    }
+  ]
+}
